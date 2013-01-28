@@ -1,8 +1,9 @@
 
 
 #include <stdio.h>
-
+#include "test/test.h"
 void main(void){
+test();
 printf("hola mundo\n");
 }
 
